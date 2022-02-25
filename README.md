@@ -13,7 +13,7 @@ Feel free to share this git page!
 
 ### Seminars
 <details>
-  <summary markdown="span">4월 8일(금) <font color="blue"><a href="https://sites.google.com/site/econkypark/home/" target="_blank"> 박정흠 박사님 (한국조세재정연구원)</a>
+  <summary markdown="span">4월 8일(금) <font color="blue"><a href="https://sites.google.com/view/cheonghumpark/" target="_blank"> 박정흠 박사님 (한국조세재정연구원)</a>
     <a href="https://www.dropbox.com/s/7m3dc3o9bebhz8x/Park_Niedermayerova.pdf?dl=0">The Effect of Daddy Quota on Gender Differences in Labor Market Outcomes (with Petra Niedermayerova)</font></a> 
   </summary>
       
