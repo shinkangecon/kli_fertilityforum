@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 ### 2022 Korea Labor Institute Forum: Fertility and Labor Market 
 Organizer: ShinHyuck Kang
 
