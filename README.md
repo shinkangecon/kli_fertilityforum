@@ -29,4 +29,17 @@ If you are interested in participating the seminar, feel free to email ShinHyuck
     TBA
   </summary>
   
-  <br>
+ </details>
+<br>
+  
+
+<details>
+  <summary markdown="span">June 10, 2022. <font color="blue"><a href="http://econ.ajou.ac.kr/econ/professor/professor01.jsp?include=view&article_no=202110020&board_wrapper=%2Fecon%2Fprofessor%2Fprofessor01.jsp&pager.offset=0&board_no=402"> 한종석 박사님 (아주대학교)</a>
+    외국인 인력 활용의 거시경제 효과 분석</font></a> 
+  </summary>
+      
+  </details>
+<br>
+
+
+    
