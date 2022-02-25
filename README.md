@@ -75,7 +75,7 @@ Feel free to share this git page!
 
 
 <details>
-  <summary markdown="span"11월 11일(금) <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
+  <summary markdown="span">11월 11일(금) <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
    TBA (with Myunghwan Lee and Jaeyeon Shin)</font></a> 
   </summary>
       
