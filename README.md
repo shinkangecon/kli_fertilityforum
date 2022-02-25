@@ -3,13 +3,13 @@ Organizer: ShinHyuck Kang
 
 Email: shinkang@kli.re.kr
 
-### [Forum Schedule](CV_Shin.pdf)
+### [Forum Schedule(Excel file)](CV_Shin.pdf)
 
 <br>
 
 ### Seminars
 <details>
-  <summary markdown="span"><font color="blue"><a href="https://sites.google.com/site/econkypark/home/" target="_blank">박정흠 박사님 (한국조세재정연구원)</a>: <a href="https://www.dropbox.com/s/7m3dc3o9bebhz8x/Park_Niedermayerova.pdf?dl=0">The Effect of Daddy Quota on Gender Differences in Labor Market Outcomes (with Petra Niedermayerova)</font></a> 
+  <summary markdown="span">Apr. 08, 2022. <font color="blue"><a href="https://sites.google.com/site/econkypark/home/" target="_blank"> 박정흠 박사님 (한국조세재정연구원)</a>: <a href="https://www.dropbox.com/s/7m3dc3o9bebhz8x/Park_Niedermayerova.pdf?dl=0">The Effect of Daddy Quota on Gender Differences in Labor Market Outcomes (with Petra Niedermayerova)</font></a> 
       
   | **Abstract**          |
   |:---------------------------|
