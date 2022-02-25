@@ -1,13 +1,13 @@
-### 2022 Korea Labor Institute Forum: Fertility and Labor Market 
-Time (KST): Every second week of Friday (except September due to Chuseok), 3:00 pm - 4:30 pm
+### 2022 Korea Labor Institute Forum: 2022 한국노동연구원 저출산과 노동 포럼
+시간: 9월을 제외한 매월 둘째주 금요일, 3:00 pm - 4:30 pm
 
-Organizer: ShinHyuck Kang
+Organizer: 강신혁 부연구위원(한국노동연구원)
 
 Email: shinkang@kli.re.kr
 
-If you are interested in participating the seminar, feel free to email ShinHyuck
+Feel free to share this git page!
 
-### [Forum Schedule](Forum Schedule.xlsx)
+### [Forum Schedule](Forum_Schedule.xlsx)
 
 <br>
 
