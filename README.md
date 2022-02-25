@@ -3,7 +3,9 @@ Organizer: ShinHyuck Kang
 
 Email: shinkang@kli.re.kr
 
-### [Forum Schedule(Excel file)](CV_Shin.pdf)
+If you are interested in participating the seminar, feel free to email ShinHyuck
+
+### [Forum Schedule(Excel file)](Forum Schedule.xlsx)
 
 <br>
 
@@ -15,4 +17,6 @@ Email: shinkang@kli.re.kr
   |:---------------------------|
   | This paper studies the impact of a father-specific parental leave policy on labor market outcomes. In 2006, Quebec reformed their parental leave policy to include up to three weeks of paid paternity leave that is not transferable to the mother. Using a state-level difference-in-difference approach, we find that the so-called daddy quota increased the probability of employment for women and decreased the wage of younger men. In a theoretical framework, we show that policy-driven changes in gender norms are consistent with our findings. The results suggest that daddy quota promoted equal opportunities for women in the labor market.
   
- <br> 
+ </details>
+  
+<br>
