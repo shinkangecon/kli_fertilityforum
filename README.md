@@ -5,7 +5,7 @@ Email: shinkang@kli.re.kr
 
 If you are interested in participating the seminar, feel free to email ShinHyuck
 
-### [Forum Schedule(Excel file)](Forum Schedule.xlsx)
+### [Forum Schedule](Forum Schedule.xlsx)
 
 <br>
 
