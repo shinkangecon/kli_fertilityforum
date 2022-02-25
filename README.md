@@ -7,7 +7,7 @@ Email: shinkang@kli.re.kr
 
 Feel free to share this git page!
 
-### [Forum Schedule](Forum_Schedule.xlsx)
+### [Forum Schedule (Excel file, you could download it)](Forum_Schedule.xlsx)
 
 <br>
 
