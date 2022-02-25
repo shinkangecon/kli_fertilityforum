@@ -41,5 +41,44 @@ If you are interested in participating the seminar, feel free to email ShinHyuck
   </details>
 <br>
 
+<details>
+  <summary markdown="span">July 08, 2022. <font color="blue"><a href="https://econ-seunghee.github.io/"> 이승희 박사님 (한국개발연구원)</a>
+    A Trajectories-Based Approach to Measuring Intergenerational Mobility (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)</font></a> 
+  </summary>
+      
+  </details>
+<br>
 
+<details>
+  <summary markdown="span">Aug. 12, 2022. <font color="blue"><a href="https://minchulyum.github.io/"> 염민철 교수님 (University of Mannheim)</a>
+   TBA</font></a> 
+  </summary>
+      
+  </details>
+<br>
+
+<details>
+  <summary markdown="span">Sep. 16, 2022. <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>
+   TBA</font></a> 
+  </summary>
+      
+  </details>
+<br>
+
+<details>
+  <summary markdown="span">Oct. 07, 2022. <font color="blue"><a href="https://sites.google.com/site/heeseungyang"> 양희승 교수님 (연세대학교)</a>
+   Revealing Status and Educational Investments: Evidence from Undocumented Immigrants (with Myunghwan Lee and Jaeyeon Shin)</font></a> 
+  </summary>
+      
+  </details>
+<br>
+
+
+<details>
+  <summary markdown="span">Nov. 11, 2022. <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
+   TBA (with Myunghwan Lee and Jaeyeon Shin)</font></a> 
+  </summary>
+      
+  </details>
+<br>
     
