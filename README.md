@@ -50,7 +50,7 @@ Feel free to share this git page!
 <br>
 
 <details>
-  <summary markdown="span">><b><i>8월 12일(금)</i></b></font> <font color="blue"><a href="https://minchulyum.github.io/"> 염민철 교수님 (University of Mannheim)</a>
+  <summary markdown="span"><b><i>8월 12일(금)</i></b></font> <font color="blue"><a href="https://minchulyum.github.io/"> 염민철 교수님 (University of Mannheim)</a>
    TBA</font></a> 
   </summary>
       
@@ -58,7 +58,7 @@ Feel free to share this git page!
 <br>
 
 <details>
-  <summary markdown="span">><b><i>9월 16일(금)</i></b></font> <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>
+  <summary markdown="span"><b><i>9월 16일(금)</i></b></font> <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>
    TBA</font></a> 
   </summary>
       
@@ -66,7 +66,7 @@ Feel free to share this git page!
 <br>
 
 <details>
-  <summary markdown="span">><b><i>10월 7일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/heeseungyang"> 양희승 교수님 (연세대학교)</a>
+  <summary markdown="span"><b><i>10월 7일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/heeseungyang"> 양희승 교수님 (연세대학교)</a>
    Revealing Status and Educational Investments: Evidence from Undocumented Immigrants (with Myunghwan Lee and Jaeyeon Shin)</font></a> 
   </summary>
       
@@ -75,7 +75,7 @@ Feel free to share this git page!
 
 
 <details>
-  <summary markdown="span">><b><i>11월 11일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
+  <summary markdown="span"><b><i>11월 11일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
    TBA</font></a> 
   </summary>
       
