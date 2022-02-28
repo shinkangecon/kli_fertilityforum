@@ -1,4 +1,4 @@
-### 2022 Korea Labor Institute Forum: 2022 한국노동연구원 저출산과 노동 포럼
+### 2022 Korea Labor Institute Forum: 2022 <a href="https://www.kli.re.kr/kli/index.do" target="_blank">한국노동연구원</a> 저출산과 노동 포럼
 시간: 9월을 제외한 매월 둘째주 금요일, 3:00 pm - 4:30 pm
 
 Organizer: <font color="blue"><a href="https://shinkangecon.github.io" target="_blank">강신혁 부연구위원(한국노동연구원)</a>
