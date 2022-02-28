@@ -34,7 +34,7 @@ Feel free to share this git page!
   
 
 <details>
-  <summary markdown="span">6월 10일(금) <font color="blue"><a href="http://econ.ajou.ac.kr/econ/professor/professor01.jsp?include=view&article_no=202110020&board_wrapper=%2Fecon%2Fprofessor%2Fprofessor01.jsp&pager.offset=0&board_no=402"> 한종석 교수님 (아주대학교)</a>
+  <summary markdown="span"><b><i>6월 10일(금)</i></b></font> <font color="blue"><a href="http://econ.ajou.ac.kr/econ/professor/professor01.jsp?include=view&article_no=202110020&board_wrapper=%2Fecon%2Fprofessor%2Fprofessor01.jsp&pager.offset=0&board_no=402"> 한종석 교수님 (아주대학교)</a>
     외국인 인력 활용의 거시경제 효과 분석 (with 김선빈 교수님 and 홍재화 교수님)</font></a> 
   </summary>
       
@@ -42,7 +42,7 @@ Feel free to share this git page!
 <br>
 
 <details>
-  <summary markdown="span">7월 8일(금) <font color="blue"><a href="https://econ-seunghee.github.io/"> 이승희 박사님 (한국개발연구원)</a>
+  <summary markdown="span"><b><i>7월 8일(금)</i></b></font> <font color="blue"><a href="https://econ-seunghee.github.io/"> 이승희 박사님 (한국개발연구원)</a>
     A Trajectories-Based Approach to Measuring Intergenerational Mobility (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)</font></a> 
   </summary>
       
@@ -50,7 +50,7 @@ Feel free to share this git page!
 <br>
 
 <details>
-  <summary markdown="span">8월 12일(금) <font color="blue"><a href="https://minchulyum.github.io/"> 염민철 교수님 (University of Mannheim)</a>
+  <summary markdown="span">><b><i>8월 12일(금)</i></b></font> <font color="blue"><a href="https://minchulyum.github.io/"> 염민철 교수님 (University of Mannheim)</a>
    TBA</font></a> 
   </summary>
       
@@ -58,7 +58,7 @@ Feel free to share this git page!
 <br>
 
 <details>
-  <summary markdown="span">9월 16일(금) <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>
+  <summary markdown="span">><b><i>9월 16일(금)</i></b></font> <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>
    TBA</font></a> 
   </summary>
       
@@ -66,7 +66,7 @@ Feel free to share this git page!
 <br>
 
 <details>
-  <summary markdown="span">10월 7일(금) <font color="blue"><a href="https://sites.google.com/site/heeseungyang"> 양희승 교수님 (연세대학교)</a>
+  <summary markdown="span">><b><i>10월 7일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/heeseungyang"> 양희승 교수님 (연세대학교)</a>
    Revealing Status and Educational Investments: Evidence from Undocumented Immigrants (with Myunghwan Lee and Jaeyeon Shin)</font></a> 
   </summary>
       
@@ -75,7 +75,7 @@ Feel free to share this git page!
 
 
 <details>
-  <summary markdown="span">11월 11일(금) <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
+  <summary markdown="span">><b><i>11월 11일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
    TBA</font></a> 
   </summary>
       
