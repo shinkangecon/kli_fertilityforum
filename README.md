@@ -25,7 +25,7 @@ Feel free to share this git page!
 <br>
   
  <details>
-  <summary markdown="span">5월 13일(금) <font color="blue"><a href="https://sites.google.com/view/ko-jeehyun" target="_blank"> 고지현 박사님 (한국조세재정연구원)</a>
+  <summary markdown="span"><b><i>5월 13일(금)</i></b> <font color="blue"><a href="https://sites.google.com/view/ko-jeehyun" target="_blank"> 고지현 박사님 (한국조세재정연구원)</a>
     TBA
   </summary>
   
