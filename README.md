@@ -26,7 +26,7 @@ Feel free to share this git page!
   
  <details>
   <summary markdown="span"><b><i>5월 13일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/view/ko-jeehyun" target="_blank"> 고지현 박사님 (한국조세재정연구원)</a>
-   [An Unintended Consequence of the Earned Income Tax Credit: Maternal Labor Supply and Child Development (pdf)](Ko(2022).pdf) /
+   <a href="https://drive.google.com/file/d/1YjesiyC5V7zUnfeHHKsV6E9rYF3C8aUL/view?usp=sharing">An Unintended Consequence of the Earned Income Tax Credit: Maternal Labor Supply and Child Development </font></a>
   </summary>
   
   | **Abstract**          |
@@ -35,6 +35,8 @@ Feel free to share this git page!
 children by increasing family income, it may also decrease caregiving inputs as a result of increased parental labor supply. Children of single mothers may be particularly sensitive to such decreases due to the lack of other parental support. Using a difference-in-differences (DID) approach to look at the impact of the 1993 EITC expansion, I find that EITC expansion reduces the combined math and reading test scores of children of single mothers by 13.61 percent of a standard deviation. The most important mechanism is reduced mother-child interactions due to the increased maternal labor supply. These results suggest that for the EITC to be an effective poverty reduction tool, it may need to be paired with other interventions such as child care.
   
  </details>
+[Paper (pdf)](Ko(2022).pdf)  /  
+ 
 <br>
   
 
