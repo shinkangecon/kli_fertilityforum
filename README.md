@@ -26,7 +26,7 @@ Feel free to share this git page!
   
  <details>
   <summary markdown="span"><b><i>5월 13일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/view/ko-jeehyun" target="_blank"> 고지현 박사님 (한국조세재정연구원)</a>
-    [An Unintended Consequence of the Earned Income Tax Credit: Maternal Labor Supply and Child Development](KO(2022).pdf) / </font></a> 
+   [An Unintended Consequence of the Earned Income Tax Credit: Maternal Labor Supply and Child Development (pdf)](Ko(2022).pdf) /
   </summary>
   
   | **Abstract**          |
