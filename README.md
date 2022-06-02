@@ -28,7 +28,7 @@ Feel free to share this git page!
  <details>
   <summary markdown="span"><b><i>5월 13일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/view/ko-jeehyun" target="_blank"> 고지현 박사님 (한국조세재정연구원)</a>
    An Unintended Consequence of the Earned Income Tax Credit: Maternal Labor Supply and Child Development </font></a>
-  <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/Ko(2022).pdf"> Paper (Dowonload) <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/Slide_Ko(2022).pdf"> Slide (Download) </font></a>
+  <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/Ko(2022).pdf"> Paper (Dowonload) <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/Slide_Ko(2022).pdf"> Slide (Download) <a href="https://www.youtube.com/watch?v=Py1ETTVrZtk"> Video Clip (Youtube) </font></a>
   </summary>
   
   | **Abstract**          |
