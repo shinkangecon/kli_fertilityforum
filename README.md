@@ -45,7 +45,7 @@ children by increasing family income, it may also decrease caregiving inputs as 
   <summary markdown="span"><b><i>6월 10일(금)</i></b></font> <font color="blue"><a href="http://econ.ajou.ac.kr/econ/professor/professor01.jsp?include=view&article_no=202110020&board_wrapper=%2Fecon%2Fprofessor%2Fprofessor01.jsp&pager.offset=0&board_no=402"> 한종석 교수님 (아주대학교)</a>
     외국인 인력 활용의 거시경제 효과 분석 (with 김선빈 교수님 and 홍재화 교수님)</font></a> 
     
-    <a href="[https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/Ko(2022).pdf](https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/%EA%B9%80%EC%84%A0%EB%B9%88_%ED%95%9C%EC%A2%85%EC%84%9D_%ED%99%8D%EC%9E%AC%ED%99%94_%EC%99%B8%EA%B5%AD%EC%9D%B8%EC%9C%A0%EC%9E%85_220610.pdf)"> Paper (Dowonload)
+    <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/%EA%B9%80%EC%84%A0%EB%B9%88_%ED%95%9C%EC%A2%85%EC%84%9D_%ED%99%8D%EC%9E%AC%ED%99%94_%EC%99%B8%EA%B5%AD%EC%9D%B8%EC%9C%A0%EC%9E%85_220610.pdf"> Paper (Dowonload)
     
   </summary>
       
