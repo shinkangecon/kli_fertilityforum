@@ -39,13 +39,21 @@ children by increasing family income, it may also decrease caregiving inputs as 
  </details>
 <br>
   
+  
 
 <details>
   <summary markdown="span"><b><i>6월 10일(금)</i></b></font> <font color="blue"><a href="http://econ.ajou.ac.kr/econ/professor/professor01.jsp?include=view&article_no=202110020&board_wrapper=%2Fecon%2Fprofessor%2Fprofessor01.jsp&pager.offset=0&board_no=402"> 한종석 교수님 (아주대학교)</a>
     외국인 인력 활용의 거시경제 효과 분석 (with 김선빈 교수님 and 홍재화 교수님)</font></a> 
+    
+    <a href="[https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/Ko(2022).pdf](https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/%EA%B9%80%EC%84%A0%EB%B9%88_%ED%95%9C%EC%A2%85%EC%84%9D_%ED%99%8D%EC%9E%AC%ED%99%94_%EC%99%B8%EA%B5%AD%EC%9D%B8%EC%9C%A0%EC%9E%85_220610.pdf)"> Paper (Dowonload)
+    
   </summary>
       
-  </details>
+  | **Abstract**          |
+  |:---------------------------|
+  | 본 논문은 이질적 경제주체 중첩세대 일반균형 모형을 이용해 인구구조 변화로 인한 거시경제변수들의 이행경로를 전망하고, 생산연령인구 감소에 대응하기 위해 외국인력을 유입시키면 거시경제변수들의 이행경로가 얼마나 개선되는지 정량적으로 분석한다. 외국인력 유입 모의실험은 임시 체류와 영구적 체류로 구분하고, 각 실험에서 유입되는 외국인력도 비숙련 노동과 숙련 노동으로 구분해 4가지 시나리오를 상정한다. 분석 결과, 임시 체류 외국인력이 유입되는 경우 부양률이 크게 개선되어 일인당 생산의 경로가 개선된다. 반면, 영주 외국인력이 유입되는 경우 부양률 개선이 거의 나타나지 않고, 외국인들의 숙련도에 따라 일인당 생산 경로가 달라진다. 영주 체류하는 비숙련 외국인이 유입되면 일인당 생산은 오히려 악화되지만 숙련 외국인이 유입되면 일인당 생산은 개선된다. 그러나 개선정도는 임시 체류하는 숙련 외국인을 받아들이는 경우보다 낮다.
+  
+ </details>
 <br>
 
 <details>
