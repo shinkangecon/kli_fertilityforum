@@ -56,7 +56,7 @@ children by increasing family income, it may also decrease caregiving inputs as 
 
 <details>
   <summary markdown="span"><b><i>7월 8일(금)</i></b></font> <font color="blue"><a href="https://econ-seunghee.github.io/"> 이승희 박사님 (한국개발연구원)</a>
-    A Trajectories-Based Approach to Measuring Intergenerational Mobility (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)</font></a> 
+    A Trajectories-Based Approach to Measuring Intergenerational Mobility (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)</font></a> <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/7월 저출산 시대와 노동 포럼_이승희 박사님.pdf"> Slide (Download)
   </summary>
       
   </details>
