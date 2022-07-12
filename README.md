@@ -1,5 +1,7 @@
 ### 2022 Korea Labor Institute Forum: 2022 <font color="blue"><a href="https://www.kli.re.kr/kli/index.do" target="_blank">한국노동연구원</a>:   저출산 시대와 노동 포럼
-시간: 9월을 제외한 매월 둘째주 금요일, 3:00 pm - 4:30 pm
+시간: 9월을 제외한 매월 둘째주 금요일, 3:00 pm - 4:30 pm.
+
+공지: 8월 12일에 한국노동연구원 해외전문가세미나로 장영수 교수님(University of Queensland) 발표일정이 같이 있을 예정입니다. 일정과 zoom link를 8월 포럼과 함께 공지할 예정이니 관심갖고 계신 분들께선 자유롭게 참여해주시면 감사하겠습니다. 
 
 Organizer: <font color="blue"><a href="https://shinkangecon.github.io" target="_blank">강신혁 부연구위원(한국노동연구원)</a>
 
