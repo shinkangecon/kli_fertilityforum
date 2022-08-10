@@ -66,15 +66,20 @@ children by increasing family income, it may also decrease caregiving inputs as 
 
 <details>
   <summary markdown="span"><b><i>8월 12일(금)</i></b></font> <font color="blue"><a href="https://minchulyum.github.io/"> 염민철 교수님 (University of Mannheim)</a>
-   TBA</font></a> 
+   Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment </font></a>
+  <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/JY_SchoolClosure_v3b_Revised.pdf"> Paper (Dowonload)</font></a> 
   </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | This paper quantitatively investigates the medium- and long-term macroeconomic and distributional consequences of school closures through intergenerational channels. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We Önd that unexpected school closure shocks have long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Higher substitutability between public and private investments induces smaller damages in the aggregate economy and the a§ected childrenís lifetime income, while exacerbating negative impacts on intergenerational mobility and inequality
       
   </details>
 <br>
 
 <details>
-  <summary markdown="span"><b><i>9월 16일(금)</i></b></font> <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>
-   TBA</font></a> 
+  <summary markdown="span"><b><i>9월 16일(금)</i></b></font> <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>TBA</font></a>
+   
   </summary>
       
   </details>
