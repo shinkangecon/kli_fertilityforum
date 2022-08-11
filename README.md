@@ -67,7 +67,7 @@ children by increasing family income, it may also decrease caregiving inputs as 
 <details>
   <summary markdown="span"><b><i>8월 12일(금)</i></b></font> <font color="blue"><a href="https://minchulyum.github.io/"> 염민철 교수님 (University of Mannheim)</a>
    Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment (with Youngsoo Jang) </font></a>
-  <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/JY_SchoolClosure_v3b_Revised.pdf"> Paper (Dowonload)</font></a> 
+  <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/JY_SchoolClosure_v3b_Revised.pdf"> Paper (Dowonload) <https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/JY_SchoolClosure_BM_v4_KLI.pdf"> Slide (Download)</font></a> 
   </summary>
   
   | **Abstract**          |
