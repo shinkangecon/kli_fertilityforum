@@ -87,8 +87,8 @@ children by increasing family income, it may also decrease caregiving inputs as 
 <br>
 
 <details>
-  <summary markdown="span"><b><i>10월 7일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/heeseungyang"> 양희승 교수님 (연세대학교)</a>
-   Revealing Status and Educational Investments: Evidence from Undocumented Immigrants (with Myunghwan Lee and Jaeyeon Shin)</font></a> 
+  <summary markdown="span"><b><i>10월 7일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
+   TBA</font></a> 
   </summary>
       
   </details>
@@ -96,8 +96,8 @@ children by increasing family income, it may also decrease caregiving inputs as 
 
 
 <details>
-  <summary markdown="span"><b><i>11월 11일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
-   TBA</font></a> 
+  <summary markdown="span"><b><i>11월 11일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/heeseungyang"> 양희승 교수님 (연세대학교)</a>
+   Revealing Status and Educational Investments: Evidence from Undocumented Immigrants (with Myunghwan Lee and Jaeyeon Shin)</font></a> 
   </summary>
       
   </details>
