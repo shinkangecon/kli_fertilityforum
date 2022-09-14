@@ -79,7 +79,7 @@ children by increasing family income, it may also decrease caregiving inputs as 
 
 <details>
   <summary markdown="span"><b><i>9월 16일(금)</i></b></font> <font color="blue"><a href="https://sunhamyong.weebly.com/"> 명선하 교수님 (Singapore Management University)</a>Discrimination and Female Entrepreneurship: Evidence from Female Entrepreneurs in South Korea
-(Joint with Jungho Lee)</font></a>
+(Joint with Jungho Lee)</font></a> <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io/blob/master/Female_Entrepreneurship_slide_Lee_Myong.pdf"> Slide (Download) </font></a>
    
   </summary>
       
