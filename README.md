@@ -88,7 +88,7 @@ children by increasing family income, it may also decrease caregiving inputs as 
 
 <details>
   <summary markdown="span"><b><i>10월 7일(금)</i></b></font> <font color="blue"><a href="https://sites.google.com/site/youjinhahn"> 한유진 교수님 (연세대학교)</a>
-   TBA</font></a> 
+   Impacts of In-Person School Days on Student Outcomes During the COVID-19 Pandemic: Evidence from Korean High Schools (with Hyuncheol Bryant Kim and Hee-Seung Yang)</font></a> 
   </summary>
       
   </details>
